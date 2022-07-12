@@ -1,0 +1,231 @@
+body{
+  font-style: 'Merriweather Sans', serif;
+  color: #40514E;
+
+}
+p{
+  font-weight: 500;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+.Upper{
+  position: relative;
+  background-color: #16003B;
+  margin-top: 0px;
+  display: inline-block;
+}
+h2{
+  color: #270082;
+  font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 3px;
+
+}
+.hello{
+  display: inline-block;
+  font-weight: normal;
+  margin-top: 0px;
+  color: white;
+  position: relative;
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  right: 650px;
+  bottom: 50px;
+
+}
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center;
+}
+.middle{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+}
+.bottom{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.monster{
+  height: 300px;
+  width: 400px;
+  position: absolute;
+  left: 450px;
+  bottom: 100px;
+}
+.spaceshitp1{
+  height:250px;
+  width: 250px;
+  position: absolute;
+  top: 30px;
+  right: 0px;
+}
+.satellite{
+  height: 130px;
+  width: 250px;
+  position: absolute;
+  left: 70px;
+  top: 50px;
+}
+.explosion{
+  height: 250px;
+  width: 400px;
+  position: absolute;
+  left: 950px;
+  top: 250px;
+}
+.star{
+  width: 1518px;
+  height: 720px;
+
+}
+.blackhole{
+  height: 400px;
+  width: 600px;
+  position: absolute;
+  right: 0px;
+  bottom: 0.0px;
+}
+.galaxy{
+  height: 130px;
+  width: 250px;
+  position: absolute;
+  left: 30px;
+  bottom: 100px;
+
+}
+.guy{
+  margin-top: 20px;
+  height: 150px;
+  width: 150px;
+}
+.suicide{
+  position: relative;
+  right: 200px;
+  margin-top: 50px;
+  height: 250px;
+  width: 250px;
+}
+.muthu{
+  position: relative;
+  right: 200px;
+  height: 250px;
+  width: 250px;
+}
+.american{
+  position: relative;
+  right: 200px;
+  margin-top: 40px;
+  height: 250px;
+  width: 250px;
+}
+.skill-row{
+  padding-right: 100px;
+  width: 50%
+  margin: auto;
+}
+.skill-row1{
+  position: absolute;
+  top:1370px;
+  right: 276px;
+}
+.bee{
+  top: 1300px;
+  right: 565px;
+  font-size: 25px;;
+}
+.skill-row2{
+  position:absolute;
+  top: 1720px;
+  right: 264px;
+
+}
+
+.go{
+  font-size: 25px;
+  right: 532px;
+  top: 1650px;
+}
+.skill-row3{
+  position: absolute;
+  right: 250px;
+  top: 2070px;
+}
+.sue{
+  right: 535px;
+  top: 2000px;
+  font-size: 25px;
+
+}
+.wrap{
+  width: 30%;
+  margin: auto;
+
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  border: 100px auto;
+  margin-bottom: 50px;
+}
+.skilll-row1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.skilll-row3{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.wee{
+  width: 50%;
+  margin: auto;
+}
+.profile{
+  margin-bottom: 50px;
+}
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 17px;
+  font-weight: 100;
+  padding: 18px;
+  -webkit-box-shadow: 14px 8px 21px 0 #000000;
+  -moz-box-shadow: 14px 8px 21px 0 #000000;
+  box-shadow: 14px 8px 21px 0 #000000;
+  text-shadow: 4px -4px 27px #000000;
+  border: solid #000000 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
